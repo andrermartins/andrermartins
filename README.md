@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](/keyboard.png)
+![](https://github.com/andrermartins/andrermartins/blob/master/keyboard.png)
 
 Hello world
 
