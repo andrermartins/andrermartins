@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Image of Yaktocat](keyboard.jpg)
+![](keyboard.jpg)
 
 <!--
 **andrermartins/andrermartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
