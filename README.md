@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![aa](keyboard.png)
+![](keyboard.png)
 
 Hello world
 
