@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/andrermartins/andrermartins/blob/master/keyboard.png)
+![](https://github.com/andrermartins/andrermartins/blob/master/keyboard.jpg)
 
 
 <!--
