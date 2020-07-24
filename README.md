@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](keyboard.jpg)
+![aa](keyboard.png)
 
 <!--
 **andrermartins/andrermartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
